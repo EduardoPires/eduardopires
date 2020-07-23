@@ -2,7 +2,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working on [desenvolvedor.io](https://desenvolvedor.io/) as Owner and Principal Instructor
+- 🔭 I’m currently working at [desenvolvedor.io](https://desenvolvedor.io/) as Owner and Principal Instructor
 - :trophy: I’m Microsoft Regional Director and Microsoft Most Valuable Professional (MVP)
 - :muscle: I’m specialist in .NET, Architecture and Cloud Native Apps
 - 💬 Ask me about: Development :)
