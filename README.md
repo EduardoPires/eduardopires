@@ -8,6 +8,12 @@ Here something about me:
 - 💬 Ask me about: Development :)
 - ⚡ Check my repos specially [DevStore Microservices](https://github.com/desenvolvedor-io/dev-store), [Equinox Project](https://github.com/EduardoPires/EquinoxProject) and [NetDevPack](https://github.com/NetDevPack)
 
+---
+
+#### Check my contributions 
+
+[![Eduardo Pires GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/eduardopires?cardType=level&theme=vision-friendly-dark)](https://git.io/awesome-stats-card)
+
 #### Follow me on my social networks:
 [![RD Badge](https://img.shields.io/badge/-RD%20Profile-black?style=flat-square&logo=Microsoft&logoColor=white&link=https://rd.microsoft.com/en-us/eduardo-pires)](https://rd.microsoft.com/en-us/eduardo-pires)
 [![MVP Badge](https://img.shields.io/badge/-MVP%20Profile-blue?style=flat-square&logo=Microsoft&logoColor=white&link=https://mvp.microsoft.com/en-us/PublicProfile/5000577)](https://mvp.microsoft.com/en-us/PublicProfile/5000577)
