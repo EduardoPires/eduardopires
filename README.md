@@ -6,7 +6,7 @@ Here something about me:
 - :trophy: I’m Microsoft Regional Director and Microsoft Most Valuable Professional (MVP)
 - :muscle: I’m specialist in .NET, Architecture and Cloud Native Apps
 - 💬 Ask me about: Development :)
-- ⚡ Check my repos specially [Equinox Project](https://github.com/EduardoPires/EquinoxProject) and [NetDevPack](https://github.com/NetDevPack)
+- ⚡ Check my repos specially [DevStore Microservices](https://github.com/desenvolvedor-io/dev-store), [Equinox Project](https://github.com/EduardoPires/EquinoxProject) and [NetDevPack](https://github.com/NetDevPack)
 
 #### Follow me on my social networks:
 [![RD Badge](https://img.shields.io/badge/-RD%20Profile-black?style=flat-square&logo=Microsoft&logoColor=white&link=https://rd.microsoft.com/en-us/eduardo-pires)](https://rd.microsoft.com/en-us/eduardo-pires)
