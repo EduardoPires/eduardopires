@@ -19,7 +19,6 @@
 ## Follow me here 💻🚀
 [![RD Badge](https://img.shields.io/badge/-RD%20Profile-green?style=flat-square&logo=Microsoft&logoColor=white&color=019884&link=https://rd.microsoft.com/en-us/eduardo-pires)](https://rd.microsoft.com/en-us/eduardo-pires)
 [![MVP Badge](https://img.shields.io/badge/-MVP%20Profile-blue?style=flat-square&logo=Microsoft&logoColor=white&link=https://mvp.microsoft.com/en-us/PublicProfile/5000577)](https://mvp.microsoft.com/en-us/PublicProfile/5000577)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardopires)](https://github.com/eduardopires)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/)](https://www.linkedin.com/in/pireseduardo/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr/)](https://www.instagram.com/eduardopiresbr/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/eduardopiresbr/)](https://www.facebook.com/eduardopiresbr/)
