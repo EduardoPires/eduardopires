@@ -13,8 +13,8 @@
 
 <div>    
   <a href="https://github.com/EduardoPires/EquinoxProject" target="_blank"><img width="100px" height="100px" src="https://github.com/EduardoPires/eduardopires/assets/5068797/84bdee01-5b6b-42ec-b888-2d07a1ea9d45" /></a>
-  <a href="https://github.com/EduardoPires/dev-store" target="_blank"><img width="100px" height="100px" src="https://github.com/EduardoPires/eduardopires/assets/5068797/eda9b7c2-eb91-4264-8f18-fcc831894a95" /></a>
-  <a href="https://github.com/EduardoPires/NetDevPack" target="_blank"><img width="100px" height="100px" src="https://github.com/EduardoPires/eduardopires/assets/5068797/e0743a7b-3ae0-4335-9e08-076e03b110f9" /></a>
+  <a href="https://github.com/desenvolvedor-io/dev-store" target="_blank"><img width="100px" height="100px" src="https://github.com/EduardoPires/eduardopires/assets/5068797/eda9b7c2-eb91-4264-8f18-fcc831894a95" /></a>
+  <a href="https://github.com/NetDevPack/NetDevPack" target="_blank"><img width="100px" height="100px" src="https://github.com/EduardoPires/eduardopires/assets/5068797/e0743a7b-3ae0-4335-9e08-076e03b110f9" /></a>
 </div>
 
 <br />
