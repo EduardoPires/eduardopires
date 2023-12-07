@@ -3,8 +3,8 @@
 </div>
 <br /> <br /> 
 <div>    
-  <img width="49%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/eduardopires?cardType=level&theme=tokyonight&preferLogin=false&Background=DD272700" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardopires&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />  
+  <img width="49%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/eduardopires?cardType=level&theme=calm&preferLogin=false&Background=FFFFFF00&Text=14B2EE&Title=55A48C&Border=DDDDDD00&Ring=55A48C" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardopires&layout=compact&title_color=55A48C&text_color=fff&bg_color=0d1117&border_color=fff0" />  
 </div>
 
 ![image](https://github.com/EduardoPires/eduardopires/assets/5068797/a24a42fc-96cf-443a-b107-467faa8048e4)
