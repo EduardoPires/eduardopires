@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/EduardoPires/eduardopires/assets/5068797/aed8c693-c4ef-4c30-ad76-460348a71054" />
+<img src="https://github.com/EduardoPires/eduardopires/assets/5068797/b4396892-7537-4dd5-9b43-35d9d7b81be2" />
 </div>
 <br /> <br /> 
 <div>    
