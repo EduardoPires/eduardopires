@@ -8,11 +8,17 @@ Here something about me:
 - 💬 Ask me about: Development :)
 - ⚡ Check my repos specially [DevStore Microservices](https://github.com/desenvolvedor-io/dev-store), [Equinox Project](https://github.com/EduardoPires/EquinoxProject) and [NetDevPack](https://github.com/NetDevPack)
 
----
+![image](https://github.com/EduardoPires/eduardopires/assets/5068797/a24a42fc-96cf-443a-b107-467faa8048e4)
 
-#### Check my contributions 
+<div>  
+  
+  <img width="49%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/eduardopires?cardType=level&theme=tokyonight&preferLogin=false&Background=DD272700" /> 
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardopires&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
 
-[![Eduardo Pires GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/eduardopires?cardType=level&theme=vision-friendly-dark)](https://git.io/awesome-stats-card)
+![image](https://github.com/EduardoPires/eduardopires/assets/5068797/a24a42fc-96cf-443a-b107-467faa8048e4)
 
 #### Follow me on my social networks:
 [![RD Badge](https://img.shields.io/badge/-RD%20Profile-black?style=flat-square&logo=Microsoft&logoColor=white&link=https://rd.microsoft.com/en-us/eduardo-pires)](https://rd.microsoft.com/en-us/eduardo-pires)
